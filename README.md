@@ -15,7 +15,6 @@ This ensures that no information is lost.
 
 - BufferedReader is used for reading the output from any socket, and PrintWriter is used with autoflush enabled(This was the only reason PrintWriter was used because of its autoflush feature).
 
-''' SideNote:We know that the file structure is not good...but the distribution of work is done pretty well through different classes.. '''
 
 
 ## Server-Side
